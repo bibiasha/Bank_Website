@@ -39,6 +39,8 @@ Postman Schema
 
 
 
+
+
 #3 Get my current balance Endpoint (/currentBalance): 
 
 Method: GET
@@ -69,6 +71,7 @@ Postman Schema
 {
     "password":"mina@123"
 }
+
 
 
 #4 Make transaction only if the password is right Endpoint (/transaction/:senderId/:receiverId): 
