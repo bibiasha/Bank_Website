@@ -1,10 +1,14 @@
 #Overview of the project#
 
 #1 User Sign Up Endpoint (/signUp):
+
 Method: POST
+
 Description: 
 This endpoint allows users to sign up for the application by providing their name, email, and password. It will credit 1000 Rs automatically after signing up.
+
 Postman URL: http://localhost:3000/signUp
+
 Postman Schema
 {
     "name":"mina",
